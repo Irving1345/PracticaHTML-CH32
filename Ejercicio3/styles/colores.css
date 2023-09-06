@@ -1,0 +1,27 @@
+
+.centrar-imagen {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+#color1 {
+    background-color:rgb(133, 241, 196)
+}
+
+#color2 {
+    background-color:rgb(241, 198, 133)
+}
+
+#color3 {
+    background-color:rgb(241, 133, 218)
+}
+
+#color4 {
+    background-color:rgb(133, 241, 156)
+}
+
+#color5 {
+    background-color:rgb(255, 109, 134)
+}
